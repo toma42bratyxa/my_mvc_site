@@ -22,7 +22,7 @@
 ## 📸 Подтверждение работы GD
 В рамках задания была выполнена настройка сервера и подключение библиотеки GD.
 
-![PHP GD Confirmation](./assets/php_gd.png)
+![PHP GD Confirmation](./screenshots/CD%20Support.png)
 
 ## 📁 Структура проекта
 * `application/` — основной код приложения.
